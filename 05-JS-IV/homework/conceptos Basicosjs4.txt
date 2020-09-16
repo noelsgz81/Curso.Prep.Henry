@@ -1,0 +1,15 @@
+Objetos:
+Son cojuntos de informacion de un objetos agrupada ordenadamente con un nombre o clave y un valor correspondiente al nombre los cuales realizaran una serie de trabajos especificos en la ejecucion del programa.
+
+Propiedades de los Objetos:
+Denotan caracteristicas del propias del objeto, por ejemplo Color, tamaño, etc.
+
+Metodos de los Objetos:
+Denotan las capacidades del objetos para ejecutar una accion en la ejecucion por ejemplo Correr, Ver, encender, etc.
+
+Bucle For In:
+Este Bucle sirve para iterar o recorreo por los elementos de los objetos.
+
+Notación de puntos vs notación de corchetes:
+Los puntos son usados para acceder a las propiedades de objeto, un nombres de indicadores, variables validos, y palabras claves reservadas.
+Mientras que los corchetes son usados para acceder informacion del objeto, arrays iterando entre sus elementos devolviendo una expresion evaluada en forma de cadena .

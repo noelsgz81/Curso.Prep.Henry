@@ -1,0 +1,2 @@
+Arrays:
+Arrays o arreglos son maneras de almacenar un grupo de informacion de la misma clase. Cada elemento del arreglo se le conoce como indice, teniendo como indice inicial el 0, y su final seria "n-1" donde "n" es igual a largo del arreglo .

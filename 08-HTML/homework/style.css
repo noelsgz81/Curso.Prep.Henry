@@ -1,0 +1,239 @@
+body{
+    background: url(blueTechnology.jpg);
+    background-attachment: fixed;
+}
+
+#global{
+    width: 65%;
+    margin: 0px auto;
+    margin-top: 20px;
+    padding: 92px;
+    background: whitesmoke;
+    box-shadow: 0px 0px 2px gray;
+}
+
+#titulo h1{
+    font-family: Verdana, Arial;
+    font-size: 15px;
+    letter-spacing: 4px;
+    background: green;
+    line-height: 25px;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
+
+#menu{
+    font-family: Helvetica, Arial;
+    background: lightsalmon;
+    width: 100%;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-radius: 14px;
+}
+
+#menu ul{
+    line-height: 40px;
+    list-style: none;
+    
+}
+
+#menu ul li{
+    height: 46px;
+    display: inline-block;
+    transition: all 300ms;
+}
+
+#menu a{
+    display: block;
+    font-size: 14px;  
+    color: whitesmoke;
+    text-decoration: none;
+    padding-right: 5px;
+}
+
+#menu a:hover{
+    /*color: green;
+    */background: green;
+    padding: 1px;
+    border-radius: 10px;
+}
+
+img{
+    width: 23%;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fotos{
+    display: flex;
+    justify-content: center;
+    background: lightgreen;
+    border-radius: 64px;
+}
+
+#content{
+    font-family: Helvetica, Arial;
+    color: #333;
+    text-align: justify;
+}
+
+#post{
+    background: yellowgreen;
+}
+
+#post h2{
+    text-align: center;
+    background: blue;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#post h3{
+    text-align: center;
+    background: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#post p{
+    text-align: justify;
+}
+
+.education{
+    font-family: Helvetica, Arial;
+    color: #333;
+    text-align: center;
+    background: lightblue;
+}
+
+#education h2{
+    text-align: center;
+    background: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#education h3{
+    text-align: start;
+}
+
+#education span{
+    font-weight: lighter;
+    font-size: 15px;
+    color: darkred;
+}
+
+.work{
+    font-family: Helvetica, Arial;
+    color: #333;
+    text-align: start;
+    background: lightblue;
+    margin-top: 15px;
+}
+
+#work h2{
+    text-align: center;
+    background: blue;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#work h3{
+    text-align: start;
+}
+
+#work span{
+    font-weight: lighter;
+}
+
+
+.change{
+    background: yellowgreen;
+    padding: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.skill{
+    font-family: Helvetica, Arial;
+    color: #333;
+    text-align: start;
+    background: lightblue;
+    margin-top: 15px;
+}
+
+.skill h2{
+    background: yellowgreen;
+    text-align: center;
+    font-size: 20px;
+}
+.skill li{
+    line-height: 25px;
+}
+
+.hobbies{
+    font-family: Helvetica, Arial;
+    color: #333;
+    text-align: start;
+    background: lightblue;
+    margin-top: 15px;
+}
+
+.hobbies h2{
+    background: yellowgreen;
+    text-align: center;
+    font-size: 20px;
+}
+
+.hobbies li{
+    line-height: 25px;
+    margin-top: 12px;
+}
+
+.about{
+    font-family: Helvetica, Arial;
+    color: #333;
+    text-align: start;
+    background: lightblue;
+    margin-top: 15px;
+}
+
+.about h2{
+    background: yellowgreen;
+    text-align: center;
+    font-size: 20px;
+}
+
+.about p{
+    line-height: 25px;
+}
+
+footer{
+    font-family: Helvetica, arial;
+    color: whitesmoke;
+    height: 47px;
+    background: rgba(51, 51, 51, 0.70);
+    margin: 0px auto;
+    width: 65%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    line-height: 47px;
+}
+
+.subir{
+    color: whitesmoke;
+    text-decoration: none;
+    display: block;
+    float: right;
+}

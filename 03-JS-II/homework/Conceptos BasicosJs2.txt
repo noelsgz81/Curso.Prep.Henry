@@ -1,0 +1,10 @@
+For:
+Es un ciclo que itera por cada elemento de un arreglo, recorre elemento por elemente para realizar cada condicion expresada en el ciclo For.
+
+Operaciones Logicas:
+
+AND (&&): Significa que se debe cumplir dos o mas condiciones impuestas para que retorne un verdadero en cualquiera de los ciclos o condicionales.
+
+OR (||): Significa que se debe cumplir una sola condicion impuesta para que retorne un verdadero en cualquiera de los ciclos o condicionales.
+
+NOT (!) Significa que no se debe cumplir las condiciones impuestas para que retorne un verdadero en cualquiera de los ciclos o condicionales .

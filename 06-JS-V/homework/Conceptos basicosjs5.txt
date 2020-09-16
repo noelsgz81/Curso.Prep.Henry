@@ -1,0 +1,5 @@
+prototype:
+son artilugios donde los objetos heredan heredan caracteristicas entre si como propiedades y metodos.
+
+_Constructors_:
+Un constructor es una función que crea una instancia de una clase que normalmente se denomina "objeto". En JavaScript un constructor es cuando declara un objeto utilizando la nueva palabra clave .

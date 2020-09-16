@@ -1,0 +1,11 @@
+Variable:
+Imaginemos un hotel con muchas habitaciones, en cada uno de ellas está ocupada por una pareja de nombre "A" por un intervalo de tiempo, luego de ese tiempo entra la pareja "B" por otro intervalo de tiempo y así sucesivamente, generando ganancia al hotel para hacerlo muy productivo. En general son áreas o espacios reservados en la memoria que pueden contener un dato cualquiera y este cambia dependiendo de la configuración del programa.
+
+String:
+Los string por su traducción Cadena. Son cadena o secuencias ordenadas de caracteres, frases, palabras, que puede ser de una extracción o para la inserción de un texto almacenada en una variable.
+
+Declaraciones IF:
+La declaración IF son decisiones que se toma para una condición, dependiendo de la validación dará como resultado un valor Verdadero (True) o un valor Falso (False) que determinaran el comportamiento que tome la ejecución del programa.
+
+Valores Booleanos (true, False):
+Es el resultado de la validación de una condición en una decisión dependiendo del resultado de la condición tomara el valor ya sea Verdadero (True) o Falso (False).

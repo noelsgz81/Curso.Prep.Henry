@@ -1,0 +1,18 @@
+.divClass h1{
+    color:darkorange;
+}
+#thirdDiv img{
+    width: 500px;
+    height: 500px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: darkorange;
+    padding: 50px;
+    border: 5px dashed brown;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
